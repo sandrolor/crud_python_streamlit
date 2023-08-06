@@ -1,0 +1,7 @@
+https://mayararysia.medium.com/python-conex%C3%A3o-com-o-mysql-d919bb596702
+
+streamlit run crud.py
+
+https://www.youtube.com/playlist?list=PLhna1crYw0SMogdpgsahknQUOmIrr74hY
+
+pip install mysql-connector-python==8.0.13
